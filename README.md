@@ -24,7 +24,7 @@ Random Forest Classifier
 Decision Tree ,
 Support Vector Machine ,
 K-NN Classifier ,
-Naive Bayes .
+Naive Bayes
 
 Technologies Used : Python
 Machine Learning
