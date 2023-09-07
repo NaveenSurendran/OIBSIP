@@ -19,12 +19,12 @@ DATA VISUALIZATION
 MODEL BUILDING (Train-Test Split)
 
 APPROACHES OF MODELS:
-Logistic Regression
+Logistic Regression,
 Random Forest Classifier
-Decision Tree 
-Support Vector Machine 
-K-NN Classifier 
-Naive Bayes 
+Decision Tree ,
+Support Vector Machine ,
+K-NN Classifier ,
+Naive Bayes ,
 
 Technologies Used : Python
 Machine Learning
